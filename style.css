@@ -57,6 +57,10 @@ h1 {
     #lg-display {
         display: flex !important;
     }
+
+    .head-title {
+        margin-top: 3%;
+    }
   }
 
 @media only screen and (max-width: 774px) {
@@ -69,5 +73,11 @@ h1 {
 
     .center {
         text-align: center;
+        padding-top: 3%;
     }
+
+    .adv-card {
+        padding-top: 12%;
+    }
+
   }
