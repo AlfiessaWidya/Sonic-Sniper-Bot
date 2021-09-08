@@ -76,8 +76,20 @@ h1 {
         padding-top: 3%;
     }
 
-    .adv-card {
-        padding-top: 12%;
+    .adv-card-down {
+        padding-top: 0 !important;
+    }
+
+    .adv-card-items {
+        margin: 15px 0;
+    }
+
+    .pricing-card {
+        margin: 25px 0;
+    }
+
+    .social-docs {
+        margin: 25px 0;
     }
 
   }
